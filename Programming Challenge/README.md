@@ -1,4 +1,4 @@
-examples
-========
+Create a calculator
+==============
 
-Just an example of stuff I'm working on / have worked on
+The request was to create a calculator using a framework of my choosing and have the math functionality in a seperate library
